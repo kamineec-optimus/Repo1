@@ -6,11 +6,11 @@
 <head runat="server">
     <title></title>
 </head>
-<asp:label runat="server" text="Label"></asp:label>
+
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <asp:label ID="Label1" runat="server" text="Label"></asp:label>
     </div>
     </form>
 </body>
